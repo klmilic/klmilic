@@ -1,4 +1,4 @@
-### Hey there! I'm Kirsten 👋
+## Hey there! I'm Kirsten 👋
 
 I'm a full stack engineer, customer advocate, entrepreneur, and adventurer. I focus on building clean and beautiful products that are easy to use and maintain.
 
